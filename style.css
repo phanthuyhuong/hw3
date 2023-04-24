@@ -1,0 +1,13 @@
+h1{
+    color: rgb(109, 139, 0);
+    font-size: 50px;
+}
+h2{
+    color: rgb(255, 0, 179);
+    font-size: 40px;
+}
+a{
+    color: coral;
+    font-size: 30px;
+    background-color: burlywood;
+}
